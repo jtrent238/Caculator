@@ -1,0 +1,14 @@
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\bin\Release\Caculator.exe.manifest
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\bin\Release\Caculator.application
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\bin\Release\Caculator.exe
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\bin\Release\Caculator.pdb
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\bin\Release\Caculator.xml
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Release\Caculator.Calculator.resources
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Release\Caculator.Resources.resources
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Release\Caculator.SplashScreen1.resources
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Release\Caculator.vbproj.GenerateResource.Cache
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Release\Caculator.exe.manifest
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Release\Caculator.application
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Release\Caculator.exe
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Release\Caculator.xml
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Release\Caculator.pdb

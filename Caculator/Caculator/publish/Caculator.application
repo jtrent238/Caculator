@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="Caculator.application" version="1.0.0.0" publicKeyToken="ebeb64b289a09192" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="Caculator" asmv2:product="Caculator" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="https://github.com/jtrent238/Caculator/Caculator.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\Caculator_1_0_0_0\Caculator.exe.manifest" size="7287">
+      <assemblyIdentity name="Caculator.exe" version="1.0.0.0" publicKeyToken="ebeb64b289a09192" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>X+z/NdWYxYRY0vyBxTYFARKZq/Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=TrentPatterson\jtrent238" issuerKeyHash="8c24f08615792bf249c9d0c51098265dce488aa8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>JhZfGp4cS71FNrOS58PMOkWPaXA=</DigestValue></Reference></SignedInfo><SignatureValue>G2rQQE9imgNFQ4rzhwAR1Ur5dGuFCZszM4L6QpukzeTF3YTDrJLfHttwkEi8jcA+yNs6DLOtQVgK2bBfEVeOFqTEXM47dgYd9ehATYkaIFhfu3RimwKzLNS6SEO1df19iyhoUO4xIESfcBhdHVOmPKIoN2zZbMXpaxCzrnUEj7A=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oKhPvijhcYwNcmMmUa+ax8/7DJVMlaPuInik7qoosJuN3lvdnZJonwyfQyZkjypVhCvJX2B9nJiWMEIK+a5JidGxVshEccQh/LuGK1mFfrnJHao6DOPClO5GygeL3sgGIK5OiU+d9QgINIusvccBEQMBj+phyWrC0W1Zj6MYYGM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="70698f453accc3e792b33645bd4b1c9e1a5f1626" Description="" Url=""><as:assemblyIdentity name="Caculator.application" version="1.0.0.0" publicKeyToken="ebeb64b289a09192" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=TrentPatterson\jtrent238</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AAEk/5cSsR2b4PtJF3X7TfsujMk=</DigestValue></Reference></SignedInfo><SignatureValue>HRqwsq4A9Aq9qIYt4GuEi/gW3HUU0r90W6r6o6OACD/15eY07Bo4MpGTWxvcQ7gV0NajTIstgNfn+IzYR0dvNxWChCI+js48RQ2yBOoPzVJQmx3E6OlJQxnbB/lN2RIh2t4B33yDcxgnKRlHmWJn/usW0JPeUlzc9fZYDfgurrU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oKhPvijhcYwNcmMmUa+ax8/7DJVMlaPuInik7qoosJuN3lvdnZJonwyfQyZkjypVhCvJX2B9nJiWMEIK+a5JidGxVshEccQh/LuGK1mFfrnJHao6DOPClO5GygeL3sgGIK5OiU+d9QgINIusvccBEQMBj+phyWrC0W1Zj6MYYGM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQMHireZX74LVKFZd0xPYXTzANBgkqhkiG9w0BAQUFADA7MTkwNwYDVQQDHjAAVAByAGUAbgB0AFAAYQB0AHQAZQByAHMAbwBuAFwAagB0AHIAZQBuAHQAMgAzADgwHhcNMTUwODI4MjM1NzA2WhcNMTYwODI4MDU1NzA2WjA7MTkwNwYDVQQDHjAAVAByAGUAbgB0AFAAYQB0AHQAZQByAHMAbwBuAFwAagB0AHIAZQBuAHQAMgAzADgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKCoT74o4XGMDXJjJlGvmsfP+wyVTJWj7iJ4pO6qKLCbjd5b3Z2SaJ8Mn0MmZI8qVYQryV9gfZyYljBCCvmuSYnRsVbIRHHEIfy7hitZhX65yR2qOgzjwpTuRsoHi97IBiCuTolPnfUICDSLrL3HAREDAY/qYclqwtFtWY+jGGBjAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEADM6ZLR596aEYU1RqW3MlPztgp+GDnGVns7h40KZbXG7wWZrZk3fsIAFYk7yKDWmbouMLrQ2aCRUIAD0vflcE3MaX8NMzZ+Xgi/sepCQFNF3M7B9ztICK1K11/rudrM6PI5nR1ttZg55yzjOerUNs7Z8yJCocQPiBB1kikWlRiRM=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

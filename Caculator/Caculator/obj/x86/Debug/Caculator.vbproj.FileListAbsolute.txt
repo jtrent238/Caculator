@@ -1,0 +1,13 @@
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\obj\x86\Debug\Caculator.Resources.resources
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\obj\x86\Debug\Caculator.vbproj.GenerateResource.Cache
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\bin\Debug\Caculator.exe
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\bin\Debug\Caculator.pdb
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\bin\Debug\Caculator.xml
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\obj\x86\Debug\Caculator.exe
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\obj\x86\Debug\Caculator.xml
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\obj\x86\Debug\Caculator.pdb
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\obj\x86\Debug\Caculator.Calculator.resources
+C:\Users\jtrent238\AppData\Local\Temporary Projects\Caculator\obj\x86\Debug\Caculator.SplashScreen1.resources
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Debug\Caculator.exe
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Debug\Caculator.xml
+C:\Users\jtrent238\Documents\GitHub\Caculator\Caculator\Caculator\obj\x86\Debug\Caculator.pdb
